@@ -1,0 +1,36 @@
+html {
+  background-color: lavenderblush;
+}
+
+/*Main page background and heading colour*/
+
+h1 {
+  background-color: black;
+  color: lavender;
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+}
+
+nav li {
+  display: inline-flex;
+  color: lavender;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10;
+  overflow: hidden;
+  background-color: #000000;
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: "Dancing Script", cursive;
+}
+
+.navigation-bar {
+  color: aliceblue;
+}
